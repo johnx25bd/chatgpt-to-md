@@ -1,4 +1,4 @@
-# chatgpt-export
+# chatgpt-to-md
 
 Convert an OpenAI ChatGPT data export into clean, searchable markdown files.
 
@@ -8,7 +8,7 @@ A single Python script. No dependencies. Download it and run it.
 
 ```bash
 # Download
-curl -sLO https://raw.githubusercontent.com/johnx25bd/chatgpt-export/main/convert.py
+curl -sLO https://raw.githubusercontent.com/johnx25bd/chatgpt-to-md/main/convert.py
 
 # Convert your export
 python3 convert.py ~/Downloads/openai-export ~/Documents/chatgpt-archive
