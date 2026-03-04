@@ -1,0 +1,9 @@
+# OpenAI export data
+2026-01-26-10-40-37-openai-export/
+
+# Converted output
+archive/
+
+# System
+.DS_Store
+__pycache__/
